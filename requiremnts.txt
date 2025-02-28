@@ -1,0 +1,10 @@
+mysql
+pymysql
+pandas
+numpy 
+sqlalchemy
+joblib
+streamlit 
+flask
+pymongo
+scikit-learn
